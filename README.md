@@ -1,1 +1,2 @@
-# Computacion_2
+# Alumno: Francisco Merenda
+# Materia: Computacion_2
