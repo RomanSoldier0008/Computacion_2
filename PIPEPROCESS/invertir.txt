@@ -1,3 +1,0 @@
-Texto invertido
-linea 2
-Hola Mundo
